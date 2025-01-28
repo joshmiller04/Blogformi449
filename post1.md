@@ -1,8 +1,7 @@
 ---
-title: "Why Players In The NBA Are Being Fined For "Injury""
+title: "Why Players In The NBA Are Being Fined For 'Injury'"
 date: 2025-01-25
 layout: layout.liquid
-
 ---
 
 In recent years, the NBA has become increasingly strict about players revealing injury details to the public, especially when it comes to players openly discussing their injuries and why they might not be playing in a given game. The issue stems from the league’s desire to maintain competitive integrity and avoid giving opponents too much insight into a team’s strategy. When players disclose injury information too casually, it can create a competitive disadvantage. For instance, if a star player reveals they’re dealing with an injury, opposing teams may alter their game plans to exploit that weakness. To address this, the NBA has cracked down on players discussing injuries in public without prior approval from their team or the league. This has led to players being fined for comments that could be seen as violating the league’s confidentiality guidelines.

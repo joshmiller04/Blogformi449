@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Why Players In The NBA Are Being Fined For "Injury""
 date: 2025-01-25
 layout: layout.liquid
 ---

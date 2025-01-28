@@ -1,5 +1,5 @@
 ---
-title: "The Stars Don’t Lie: A New Discovery"
+title: "The MLB offseason"
 date: 2025-01-27
 layout: layout.liquid
 ---

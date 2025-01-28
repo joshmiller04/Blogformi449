@@ -1,5 +1,5 @@
 ---
-title: "The Void Beyond: My First Days Alone"
+title: ""
 date: 2025-01-25
 layout: layout.liquid
 ---

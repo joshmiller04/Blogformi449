@@ -7,8 +7,8 @@ Welscome To Josh's Sports Blog
 
 **Recent Posts:**
 
-- [The Void Beyond: My First Days Alone](./blog/post1)  
-  A reflection on the isolation of space and the beginnings of my journey.
+- [](./blog/post1)  
+  
 
 - [The Stars Don’t Lie: A New Discovery](./blog/post2)  
   A startling discovery in the deep reaches of space.

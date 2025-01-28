@@ -1,15 +1,15 @@
 ---
-title: "Lone Human Explorer Blog"
+title: "Josh's Sports Blog"
 layout: layout.liquid
 ---
 
-# Welcome to the Blog of a Lone Human Interstellar Explorer
+# Welcome to the Sports Blog Of Josh Miller
 
-Join me on my journey across the stars. I document my experiences, discoveries, and reflections as I travel alone in the vast expanse of space.
+Come read as I write blog posts about all diffrent sports and events in sports.
 
 ## Recent Posts:
 
-- [The Void Beyond: My First Days Alone](/post1)
-- [The Stars Don’t Lie: A New Discovery](/post2)
+- [Why Players In The NBA Are Being Fined For "Injury"](/post1)
+- [The MLB Off-season](/post2)
 
-Stay tuned for more updates from the depths of the universe.
+Stay tuned for more updates.

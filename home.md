@@ -3,7 +3,7 @@ title: "My Blog"
 layout: layout.liquid
 ---
 
-Welcome to the blog of a lone human interstellar explorer. Here, I share my thoughts, discoveries, and reflections as I journey through the unknown vastness of space. I’m alone out here, but my mission is clear: to explore, to discover, and to push the boundaries of human knowledge.
+Welscome To Josh's Sports Blog
 
 **Recent Posts:**
 

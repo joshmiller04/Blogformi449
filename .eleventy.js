@@ -1,6 +1,12 @@
-
-// The export statement makes these settings available to other files in 11ty
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("styles");
+  // Optionally, add more LiquidJS filters or features here if needed
+
+  return {
+    templateFormats: ["liquid", "md"],  // Ensure Liquid templates are supported
+    dir: {
+      input: ".",  // Root input directory
+      output: "_site",  // Output directory
+      includes: "_includes",  // Layouts and partials folder
+    }
+  };
 };

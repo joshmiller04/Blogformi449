@@ -3,6 +3,7 @@ title: "The MLB offseason"
 date: 2025-01-27
 layout: layout.liquid
 ---
+# POST 2
 
 The MLB offseason is a crucial period in the baseball calendar, where teams take a deep breath after the long, grueling regular season and the excitement of the postseason, only to shift their focus to the future. It's a time when the competitive landscape can change dramatically, with trades, free-agent signings, and the occasional blockbuster deal that can reshape a team’s chances for the upcoming season. For general managers and team executives, the offseason is a balancing act—assessing weaknesses, managing budgets, and strategizing about how to improve the roster without overspending or sacrificing long-term potential. Free-agent signings are often the biggest headlines, with star players looking for lucrative contracts and teams vying for their services. High-profile names like Aaron Judge, Shohei Ohtani, and Jacob deGrom generate excitement, but even smaller moves can have a significant impact on a team's performance.
 
